@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030125746246",
+    "project_id": "flashchat-6fb00",
+    "storage_bucket": "flashchat-6fb00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030125746246:android:7b0ca5265d83ae44cab247",
+        "android_client_info": {
+          "package_name": "com.keto.chatting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvNjsYuC7k20jTJ-bFenz9x_aXtWz94ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
